@@ -1,5 +1,5 @@
 .profile-pic{
-	max-width: 100%;
+	max-width: 97%;
 }
 
 body {
@@ -17,10 +17,10 @@ body {
 
 .navbar {
 	background-color: #ADD2D8;
-	color: black;
+	color: #1d3156;
 }
 
 .big-text {
 	font-size: 30px;
-	color: black;
+	color: #1d3156;
 }
