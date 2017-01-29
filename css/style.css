@@ -1,3 +1,26 @@
 .profile-pic{
 	max-width: 100%;
 }
+
+body {
+   background-image: url("https://studio87blog.files.wordpress.com/2016/01/white-marble-2048.jpg");
+} 
+
+.icons { 
+	text-align:center
+}
+
+.pattern {
+	background-image: url("https://s-media-cache-ak0.pinimg.com/564x/8d/29/11/8d291189ea4144be3c5eb5a015559c8e.jpg");
+	background-size: contain;
+}
+
+.navbar {
+	background-color: #ADD2D8;
+	color: black;
+}
+
+.big-text {
+	font-size: 30px;
+	color: black;
+}
